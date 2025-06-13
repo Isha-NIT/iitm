@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Welcome to the Community Forum",
+    "url": "https://example.com/forum/welcome",
+    "content": "This is a great place to ask questions and get help from the community. Please read the rules before posting."
+  },
+  {
+    "title": "Troubleshooting Common Issues",
+    "url": "https://example.com/forum/troubleshooting",
+    "content": "If you're facing issues, first check our troubleshooting guide. It covers most common problems and their solutions."
+  },
+  {
+    "title": "How to post a question",
+    "url": "https://example.com/forum/posting-guide",
+    "content": "To post a new question, navigate to the 'New Topic' section and describe your problem clearly. Include screenshots if possible."
+  },
+  {
+    "title": "Understanding API Endpoints",
+    "url": "https://example.com/docs/api-endpoints",
+    "content": "API endpoints are specific URLs that represent different functions or data resources available through an API."
+  },
+  {
+    "title": "User Authentication Methods",
+    "url": "https://example.com/docs/auth-methods",
+    "content": "Different authentication methods like OAuth, API keys, and JWT tokens are used to secure API access."
+  },
+  {
+    "title": "Database Schema Design Best Practices",
+    "url": "https://example.com/docs/db-schema",
+    "content": "Designing an efficient database schema involves normalization, indexing, and choosing appropriate data types."
+  },
+  {
+    "title": "Virtual Assistant Limitations",
+    "url": "https://example.com/faq/limitations",
+    "content": "Our virtual assistant can provide information based on predefined knowledge bases. It cannot perform actions outside its scope."
+  }
+]
