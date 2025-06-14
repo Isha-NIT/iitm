@@ -5,4 +5,4 @@ pytesseract
 python-dotenv
 scikit-learn
 google-generativeai
-
+gunicorn # <--- Make sure this is present
